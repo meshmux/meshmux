@@ -1,4 +1,4 @@
-from mdfenicsx.mesh_motion_classes import HarmonicMeshMotion
+from meshmux.mesh_motion_classes import HarmonicMeshMotion
 
 import dolfinx
 import numpy as np

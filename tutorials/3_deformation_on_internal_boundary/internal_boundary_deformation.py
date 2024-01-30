@@ -1,4 +1,4 @@
-from mdfenicsx.mesh_motion_classes import \
+from meshmux.mesh_motion_classes import \
     HarmonicMeshMotion, LinearElasticMeshMotion
 
 import dolfinx

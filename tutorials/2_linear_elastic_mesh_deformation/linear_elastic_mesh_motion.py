@@ -1,4 +1,4 @@
-from mdfenicsx.mesh_motion_classes import LinearElasticMeshMotion
+from meshmux.mesh_motion_classes import LinearElasticMeshMotion
 
 import dolfinx
 import numpy as np

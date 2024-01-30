@@ -1,4 +1,4 @@
-from mdfenicsx.mesh_motion_classes \
+from meshmux.mesh_motion_classes \
     import HarmonicMeshMotion, LinearElasticMeshMotion
 
 from mpi4py import MPI
